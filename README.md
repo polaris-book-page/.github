@@ -32,6 +32,6 @@
 
 | <img src="https://avatars.githubusercontent.com/u/79989242?s=96&v=4" width=90px alt="유수연"/>  | <img src="https://avatars.githubusercontent.com/u/82260747?v=4" width=90px alt="김주희"/>  |
 | :-----: | :-----: |
-| 유수연(팀장) | 박유나(팀원)  |
+| 유수연 | 김주희  |
 | [@otcroz](https://github.com/otcroz) | [@kjh073](https://github.com/kjh073)  |
 |Client, Server, AI|Client, Server, AI|
