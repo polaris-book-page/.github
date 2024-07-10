@@ -127,7 +127,8 @@
 <summary>메인페이지: 베스트셀러&북극성 유저가 가장 많이 읽은 책, 북극성 레터 구독</summary>
 <div markdown="1">
 	
-![_2024_07_10_10_19_06_217-ezgif com-video-to-gif-converter](https://github.com/polaris-book-page/.github/assets/79989242/e32563dc-9c74-4b1b-b965-888045a54f4d)
+![_2024_07_10_10_19_06_217-ezgif com-video-to-gif-converter](https://github.com/polaris-book-page/.github/assets/79989242/08a1844a-aa45-4ba4-b9f1-fa8439ded932)
+
 
 - 베스트셀러&북극성 유저가 가장 많이 읽은 책
   - 베스트셀러를 확인할 수 있습니다.(알라딘 API 구현)
